@@ -8,4 +8,4 @@
 
 ## Programação Reativa com RxJS
 
-## Lambda
+## Lambda Calculus
