@@ -5,6 +5,7 @@
 ### Vantagens
 
 > - Reuso de código eficiente
+> - Melhor para paralelismo
 
 ### Desvantagens
 
