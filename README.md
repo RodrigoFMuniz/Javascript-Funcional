@@ -4,7 +4,7 @@
 
 ### Declarativo
 
-> - Diz como, não o que
+> - Diz o que, não o como
 > - Foco na lógica
 > - Imutabilidade
 > - Menor quantidade de código
@@ -14,7 +14,7 @@
 
 ### Imperativo
 
-> - Diz o que, não o como
+> - Diz o como, não o que
 > - Foco no fluxo
 > - Estados mutáveis
 > - Maior quantidade de código
