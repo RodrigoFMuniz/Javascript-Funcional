@@ -1,5 +1,15 @@
 # Paradigma Funcional
 
+## Estilo de código
+
+### Declarativo
+
+> Diz como, não o que
+
+### Imperativo
+
+> Diz o que, não o como
+
 ## Conceito
 
 ### Vantagens
