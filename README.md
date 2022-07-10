@@ -10,11 +10,17 @@
 > - Menor quantidade de código
 > - Alto nível de escalabilidade
 > - Menos conhecido
-> - Menos explicito
+> - Menos explícito
 
 ### Imperativo
 
-> Diz o que, não o como
+> - Diz o que, não o como
+> - Foco no fluxo
+> - Estados mutáveis
+> - Maior quantidade de código
+> - Baixo nível de escalabilidade
+> - Mais conhecido
+> - Mais explícito
 
 ## Conceito
 
