@@ -4,7 +4,13 @@
 
 ### Declarativo
 
-> Diz como, não o que
+> - Diz como, não o que
+> - Foco na lógica
+> - Imutabilidade
+> - Menor quantidade de código
+> - Alto nível de escalabilidade
+> - Menos conhecido
+> - Menos explicito
 
 ### Imperativo
 
