@@ -46,6 +46,11 @@
 
 ## Programação Funcional
 
+### Valor vs Referência
+
+> - Valores primitivos são armazenados no stack
+> - Objetos complexos, ou objetos não primitivos tem sua referência armazenada na stack, seu valores são armazenados no HEAP.
+
 ## Programação Reativa com RxJS
 
 ## Lambda Calculus
