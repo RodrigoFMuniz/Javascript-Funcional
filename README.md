@@ -24,6 +24,9 @@
 
 ## Conceito
 
+> - Funções São valores
+> - Composição de funções
+
 ### First class function
 
 ### Higher order function
