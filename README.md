@@ -24,6 +24,10 @@
 
 ## Conceito
 
+### First class function
+
+### Higher order function
+
 ### Vantagens
 
 > - Reuso de código eficiente
